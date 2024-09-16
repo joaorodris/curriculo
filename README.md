@@ -1,1 +1,1 @@
-# curriculo-frontend
+# Joao Paulo Rodrigues
